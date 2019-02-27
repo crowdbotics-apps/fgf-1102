@@ -1,0 +1,3 @@
+rootProject.name = 'fgf_1102'
+
+include ':app'
